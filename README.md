@@ -1,5 +1,5 @@
 # Fullcycle - Docker go
-Desafio para criação de imagem GO no docker
+Desafio para criação de imagem GO no docker com no máximo 2MB
 
 ### Link DockerHUB
 
